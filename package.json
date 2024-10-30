@@ -1,5 +1,5 @@
 {
-  "homepage": "http://bluedragon320.github.io/myinfo",
+  "homepage": "http://bluedragon320.github.io/MyPort",
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
@@ -9,10 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "dependencies": {
     "lucide-react": "^0.344.0",
